@@ -178,7 +178,6 @@ button {
     letter-spacing: 2px;
 }
 
-/* explore section */
 .explore-section {
     background-image: url(../images/father.jpg);
     padding: 100px 0;
@@ -206,7 +205,6 @@ button {
     height: 5px;
     display: block;
     background-color: rgb(223, 13, 13);
-
     border-radius: 10px;
 }
 
@@ -221,7 +219,7 @@ button {
     margin: 10px 0 0 0;
 }
 
-/* tour-section */
+/* tour-section --- */
 .tour-section {
     padding: 100px 0;
 }
